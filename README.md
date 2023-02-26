@@ -1,1 +1,1 @@
-In this project we mainly test our knowledge of Shell,basics
+Here we look at Shell, init files, variables and expansions
